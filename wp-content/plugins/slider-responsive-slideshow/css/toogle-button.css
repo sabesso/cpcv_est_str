@@ -1,0 +1,230 @@
+/*Toggle button on/off css*/
+
+.switch-field {
+  font-family: "Lucida Grande", Tahoma, Verdana, sans-serif;
+  overflow: hidden;
+}
+
+.switch-title {
+  margin-bottom: 6px;
+}
+
+.switch-field input {
+  display: none;
+}
+
+.switch-field label {
+  float: left;
+}
+
+.switch-field label {
+	display: inline-block;
+	width: 60px;
+	font-size: 14px;
+	font-weight: normal;
+	text-align: center;
+	text-shadow: none;
+	padding: 6px 2px;
+	border: 1px solid rgba(0, 0, 0, 0.2);
+	-webkit-transition: all 0.1s ease-in-out;
+	-moz-transition:    all 0.1s ease-in-out;
+	-ms-transition:     all 0.1s ease-in-out;
+	-o-transition:      all 0.1s ease-in-out;
+	transition:         all 0.1s ease-in-out;
+}
+
+.switch-field label:hover {
+    cursor: pointer;
+	
+}
+
+.switch-field input:checked + label {
+  background-color: #0073AA;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  color:#FFFFFF;
+}
+
+.switch-field label:first-of-type {
+  border-radius: 4px 0 0 4px;
+}
+
+.switch-field label:last-of-type {
+  border-radius: 0 4px 4px 0;
+}
+.em_size_field label {
+	width:120px;
+}
+/**/
+
+/* Rabge bar css*/
+
+*, *:before, *:after {
+  box-sizing: border-box !important;
+}
+
+
+.range-slider {
+  width: 40%;
+  padding-left: 10px;
+}
+
+.range-slider__range {
+  -webkit-appearance: none;
+  width: calc(98% - (73px)) !important;
+  height: 7px;
+  border-radius: 5px;
+  background: #d7dcdf;
+  outline: none;
+  padding: 0;
+  margin: 2px;
+  display:inline !important;
+}
+.range-slider__range::-webkit-slider-thumb {
+  -webkit-appearance: none;
+   appearance: none;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #40BABD;
+  cursor: pointer;
+  -webkit-transition: background .15s ease-in-out;
+  transition: background .15s ease-in-out;
+}
+.range-slider__range::-webkit-slider-thumb:hover {
+  background: #1abc9c;
+}
+.range-slider__range:active::-webkit-slider-thumb {
+  background: #1abc9c;
+}
+.range-slider__range::-moz-range-thumb {
+  width: 20px;
+  height: 20px;
+  border: 0;
+  border-radius: 50%;
+  background: #0073AA;
+  cursor: pointer;
+  -webkit-transition: background .15s ease-in-out;
+  transition: background .15s ease-in-out;
+}
+.range-slider__range::-moz-range-thumb:hover {
+  background: #177EE5;
+}
+.range-slider__range:active::-moz-range-thumb {
+  background: #62D5FF;
+}
+
+.range-slider__value {
+  display: inline-block !important;
+  position: relative !important;
+  width: 60px;
+  color: #fff;
+  line-height: 20px;
+  text-align: center;
+  border-radius: 3px;
+  background: #0073AA;
+  padding: 5px 10px;
+  margin-left: 8px;
+}
+.range-slider__value:after {
+  position: absolute !important;
+  top: 8px;
+  left: -7px;
+  width: 0;
+  height: 0;
+  border-top: 7px solid transparent;
+  border-right: 7px solid #0073AA;
+  border-bottom: 7px solid transparent;
+  content: '';
+}
+
+::-moz-range-track {
+  background: #d7dcdf;
+  border: 0;
+}
+
+input::-moz-focus-inner,
+input::-moz-focus-outer {
+  border: 0;
+}
+
+
+/* Title Css */
+.bg-title {
+    font-size: 18px;
+    font-weight: 500;
+    padding: 15px;
+	background-color: #008EC2;
+    color: #fff;
+}
+
+.bg-lower-title {
+    font-size: 16px;
+    font-weight: 500;
+	background-color: #F6F6F6;
+    color: #23282D;
+    font-family: icon;
+	padding-left: 10px;
+	padding: 10px;
+	margin-left: 5px;
+}
+
+/* return to top button css*/
+#return-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: #008EC2;
+    background: #008EC2;
+    width: 50px;
+    height: 50px;
+    display: block;
+    text-decoration: none;
+    -webkit-border-radius: 35px;
+    -moz-border-radius: 35px;
+    border-radius: 35px;
+    display: none;
+    -webkit-transition: all 0.3s linear;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+#return-to-top i {
+    color: #fff;
+    margin: 0;
+    position: relative;
+    left: 16px;
+    top: 13px;
+    font-size: 19px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+#return-to-top:hover {
+    background: #0073AA;
+}
+#return-to-top:hover i {
+    color: #fff;
+    top: 5px;
+} 
+#return-to-top:focus {
+    outline: none;
+}
+
+
+/*======*******========media query=========******=======*/
+@media only screen and (max-width: 359px) {
+    .em_size_field  {
+        width:80%;
+    }
+}
+@media only screen and (max-width: 300px) {
+    #shortcode  {
+        width:100%;
+    }
+}
+
+

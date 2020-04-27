@@ -1,0 +1,466 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-08-10 17:41+0530\n"
+"PO-Revision-Date: 2018-08-10 17:41+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: buy-premium.php:8
+msgid "Slider Responsive Slideshow Premium Plugin"
+msgstr "स्लाइडर उत्तरदायी स्लाइड शो प्रीमियम प्लगइन"
+
+#: buy-premium.php:9
+msgid ""
+"Buy Premium Plugin with More Effects settings, Fully Customization, Navigation Option, "
+"Transition Effect , Full Responsive Slider, Carousel Slider"
+msgstr ""
+"अधिक प्रभाव सेटिंग्स, पूरी तरह से अनुकूलन, नेविगेशन विकल्प, संक्रमण प्रभाव, पूर्ण उत्तरदायी स्लाइडर, कैरोसेल "
+"स्लाइडर के साथ प्रीमियम प्लगइन खरीदें"
+
+#: buy-premium.php:12
+msgid "Slider Responsive Slideshow Premium Plugin For All Devices"
+msgstr "सभी उपकरणों के लिए स्लाइडर उत्तरदायी स्लाइड शो प्रीमियम प्लगइन"
+
+#: buy-premium.php:14
+msgid "Purchase Now"
+msgstr "अभी खरीदो"
+
+#: buy-premium.php:37
+msgid "Plugins Bale Offer - 18+ Plugins"
+msgstr "प्लगइन्स गांठ ऑफर - 18+ प्लगइन्स"
+
+#: buy-premium.php:38
+msgid "Get All Premium Plugin ( Personal Licence) in just $149"
+msgstr "केवल $ 14 9 में सभी प्रीमियम प्लगइन (व्यक्तिगत लाइसेंस) प्राप्त करें"
+
+#: buy-premium.php:39
+msgid "For $149 Only"
+msgstr "केवल $ 14 9 के लिए"
+
+#: buy-premium.php:42
+msgid "BUY NOW"
+msgstr "अभी खरीदें"
+
+#: buy-premium.php:46
+msgid "Try Our Other Plugins"
+msgstr "हमारे अन्य प्लगइन्स आज़माएं"
+
+#: buy-premium.php:48
+msgid "Portfolio Filter Gallery"
+msgstr "पोर्टफोलियो फ़िल्टर गैलरी"
+
+#: buy-premium.php:49
+msgid "Grid Gallery"
+msgstr "ग्रिड गैलरी"
+
+#: buy-premium.php:50
+msgid "Photo Gallery"
+msgstr "चित्र प्रदर्शनी"
+
+#: buy-premium.php:51
+msgid "Responsive Slider Gallery"
+msgstr "उत्तरदायी स्लाइडर गैलरी"
+
+#: buy-premium.php:52
+msgid "Contact Form Widget"
+msgstr "संपर्क फ़ॉर्म विजेट"
+
+#: buy-premium.php:53 slider-responsive-slideshow.php:159 slider-responsive-slideshow.php:160
+msgid "Slider Responsive Slideshow"
+msgstr "स्लाइडर उत्तरदायी स्लाइड शो"
+
+#: buy-premium.php:54
+msgid "Video Gallery"
+msgstr "वीडियो गैलरी"
+
+#: buy-premium.php:55 buy-premium.php:65
+msgid "Facebook Likebox Plugin"
+msgstr "फेसबुक लाईकबोक्स प्लगइन"
+
+#: buy-premium.php:56
+msgid "Google Plus Badge"
+msgstr "गूगल प्लस बिल्ला"
+
+#: buy-premium.php:57
+msgid "Social Media"
+msgstr "सामाजिक मीडिया"
+
+#: buy-premium.php:58
+msgid "Media Slider"
+msgstr "मीडिया स्लाइडर"
+
+#: buy-premium.php:59
+msgid "Weather Effect"
+msgstr "मौसम प्रभाव"
+
+#: buy-premium.php:60
+msgid "Modal Popup Box"
+msgstr "मॉडल पॉपअप बॉक्स"
+
+#: buy-premium.php:61
+msgid "Flickr gallery"
+msgstr "फ़्लिकर गैलरी"
+
+#: buy-premium.php:62
+msgid "Floating News Headline"
+msgstr "फ़्लोटिंग न्यूज़ हेडलाइन"
+
+#: buy-premium.php:63
+msgid "Instagram type Gallery"
+msgstr "इंस्टाग्राम प्रकार गैलरी"
+
+#: buy-premium.php:64
+msgid "Image Gallery"
+msgstr "छवि गैलरी"
+
+#: featured-plugins/featured-plugins.php:96
+#, php-format
+msgid "%s rating"
+msgstr "% s रेटिंग"
+
+#: featured-plugins/featured-plugins.php:111
+msgid "Get More Free WordPress Plugin From A WP Life"
+msgstr "एक डबलयू पी जीवन से अधिक मुफ्त वर्डप्रेस प्लगइन प्राप्त करें"
+
+#: featured-plugins/featured-plugins.php:157
+msgid "More Details"
+msgstr "अधिक जानकारी"
+
+#: featured-plugins/featured-plugins.php:168
+msgid "Install Now"
+msgstr "अभी स्थापित करें"
+
+#: featured-plugins/featured-plugins.php:175
+msgid "Update Now"
+msgstr "अभी अद्यतन करें"
+
+#: featured-plugins/featured-plugins.php:218
+msgid "By"
+msgstr "द्वारा"
+
+#: featured-plugins/featured-plugins.php:239
+msgid "Last Updated:"
+msgstr "आखरी अपडेट:"
+
+#: shortcode.php:162
+msgid ""
+"Sorry! No slides added to the slider shortcode yet. Please add few slide into shortcode"
+msgstr "माफ़ कीजिये! स्लाइडर शोर्ट में अभी तक कोई स्लाइड नहीं जोड़ा गया है। कृपया शोर्ट में कुछ स्लाइड जोड़ें"
+
+#: slider-responsive-slideshow.php:55
+msgid "Slider Responsive"
+msgstr "स्लाइडर उत्तरदायी"
+
+#: slider-responsive-slideshow.php:142
+msgid "Docs"
+msgstr "डॉक्स"
+
+#: slider-responsive-slideshow.php:143
+msgid "Featured-Plugin"
+msgstr "विशेष रुप से प्रदर्शित-प्लगइन"
+
+#: slider-responsive-slideshow.php:143
+msgid "Featured Plugin"
+msgstr "फीचर्ड प्लगइन"
+
+#: slider-responsive-slideshow.php:144
+msgid "Upgrade Plugin"
+msgstr "प्लगइन अपग्रेड करें"
+
+#: slider-responsive-slideshow.php:145
+msgid "Our Theme"
+msgstr "हमारी थीम"
+
+#: slider-responsive-slideshow.php:161
+msgid "Parent Item:"
+msgstr "अभिभावक आइटम:"
+
+#: slider-responsive-slideshow.php:162
+msgid "All Slider"
+msgstr "सभी स्लाइडर"
+
+#: slider-responsive-slideshow.php:163 slider-responsive-slideshow.php:164
+msgid "Add New Slider"
+msgstr "नया स्लाइडर जोड़ें"
+
+#: slider-responsive-slideshow.php:165
+msgid "New Slider"
+msgstr "नया स्लाइडर"
+
+#: slider-responsive-slideshow.php:166
+msgid "Edit Slider"
+msgstr "स्लाइडर संपादित करें"
+
+#: slider-responsive-slideshow.php:167
+msgid "Update Slider"
+msgstr "अद्यतन स्लाइडर"
+
+#: slider-responsive-slideshow.php:168
+msgid "Search Slider"
+msgstr "स्लाइडर खोजें"
+
+#: slider-responsive-slideshow.php:169
+msgid "Slider Not found"
+msgstr "स्लाइडर नहीं मिला"
+
+#: slider-responsive-slideshow.php:170
+msgid "Slider Not found in Trash"
+msgstr "ट्रैश में स्लाइडर नहीं मिला"
+
+#: slider-responsive-slideshow.php:173
+msgid "Slider"
+msgstr "स्लाइडर"
+
+#: slider-responsive-slideshow.php:174
+msgid "Custom Post Type For Slider"
+msgstr "स्लाइडर के लिए कस्टम पोस्ट प्रकार"
+
+#: slider-responsive-slideshow.php:203
+msgid "Add Image Slides"
+msgstr "छवि स्लाइड जोड़ें"
+
+#: slider-responsive-slideshow.php:213
+msgid "Delete All Slide"
+msgstr "सभी स्लाइड हटाएं"
+
+#: slider-responsive-slideshow.php:242
+msgid "New Slide"
+msgstr "नई स्लाइड"
+
+#: slider-responsive-slideshow.php:246
+msgid "Slider Slideshow Settings"
+msgstr "स्लाइडर स्लाइड शो सेटिंग्स"
+
+#: slider-settings.php:26
+msgid "Copy Slider Shortcode"
+msgstr "स्लाइडर शोर्ट कॉपी करें"
+
+#: slider-settings.php:28
+msgid "Copy & Embed shortcode into any Page/Post/Text Widget to preview your slider on site"
+msgstr ""
+"साइट पर अपने स्लाइडर का पूर्वावलोकन करने के लिए किसी भी पेज / पोस्ट / टेक्स्ट विजेट में कॉपी करें और एम्बेड करें"
+
+#: slider-settings.php:34
+msgid "1. Slider Slides Settings"
+msgstr "1 स्लाइडर स्लाइड सेटिंग्स"
+
+#: slider-settings.php:35
+msgid "A. Slides"
+msgstr "एक स्लाइड"
+
+#: slider-settings.php:41
+msgid "Set numbers of slider you want to display at a time like 1, 2, 3, 4, 10"
+msgstr "स्लाइडर की संख्या सेट करें जिन्हें आप 1, 2, 3, 4, 10 जैसे समय पर प्रदर्शित करना चाहते हैं"
+
+#: slider-settings.php:45
+msgid "B. Slide Speed"
+msgstr "बी स्लाइड गति"
+
+#: slider-settings.php:51
+msgid "Set slide transition speed in milliseconds like 200, 400, 500, 700, 1000"
+msgstr "200, 400, 500, 700, 1000 जैसे मिलीसेकंड में स्लाइड संक्रमण गति सेट करें"
+
+#: slider-settings.php:55
+msgid "C. Slide Margin"
+msgstr "सी स्लाइड मार्जिन"
+
+#: slider-settings.php:56 slider-settings.php:61 slider-settings.php:207
+#: slider-settings.php:211
+msgid "Buy Premium Version To Get This Feature"
+msgstr "इस सुविधा को पाने के लिए प्रीमियम संस्करण खरीदें"
+
+#: slider-settings.php:60
+msgid "D. Slide Transitions"
+msgstr "डी स्लाइड संक्रमण"
+
+#: slider-settings.php:66
+msgid "2. Slider Auto Play Setting"
+msgstr "2 स्लाइडर ऑटो प्ले सेटिंग"
+
+#: slider-settings.php:67
+msgid "Auto Play"
+msgstr "स्वत: प्ले"
+
+#: slider-settings.php:71 slider-settings.php:83 slider-settings.php:110
+#: slider-settings.php:134 slider-settings.php:144 slider-settings.php:156
+msgid "Yes"
+msgstr "हाँ"
+
+#: slider-settings.php:73 slider-settings.php:85 slider-settings.php:112
+#: slider-settings.php:136 slider-settings.php:146 slider-settings.php:158
+msgid "No"
+msgstr "नहीं"
+
+#: slider-settings.php:74
+msgid "Set auto play to slides automatically"
+msgstr "स्वचालित रूप से स्लाइड करने के लिए ऑटो प्ले सेट करें"
+
+#: slider-settings.php:78
+msgid "3. Slider Navigation Settings"
+msgstr "3 स्लाइडर नेविगेशन सेटिंग्स"
+
+#: slider-settings.php:79
+msgid "A. Slider Navigation"
+msgstr "एक स्लाइडर नेविगेशन"
+
+#: slider-settings.php:86
+msgid "Set slide on mouse hover stop auto play"
+msgstr "माउस होवर स्टॉप ऑटो प्ले पर स्लाइड सेट करें"
+
+#: slider-settings.php:91
+msgid "B. Navigation Text For - Next Button"
+msgstr "बी नेविगेशन पाठ के लिए - अगला बटन"
+
+#: slider-settings.php:94
+msgid "Set navigation next button text"
+msgstr "अगला बटन पाठ नेविगेशन सेट करें"
+
+#: slider-settings.php:98
+msgid "C. Navigation Text For - Previous Button"
+msgstr "सी नेविगेशन पाठ के लिए - पिछला बटन"
+
+#: slider-settings.php:101
+msgid "Set navigation previous button text"
+msgstr "नेविगेशन पिछले बटन पाठ सेट करें"
+
+#: slider-settings.php:105
+msgid "4. Slider Auto Height Settings"
+msgstr "4 स्लाइडर ऑटो ऊंचाई सेटिंग्स"
+
+#: slider-settings.php:106
+msgid "Auto Height"
+msgstr "ऑटो ऊंचाई"
+
+#: slider-settings.php:113
+msgid "Set Set slider auto height"
+msgstr "सेट स्लाइडर ऑटो ऊंचाई सेट करें"
+
+#: slider-settings.php:117
+msgid "5. Slider Touch Slide Settings"
+msgstr "5 स्लाइडर टच स्लाइड सेटिंग्स"
+
+#: slider-settings.php:118
+msgid "Touch Slide"
+msgstr "स्लाइड टच करें"
+
+#: slider-settings.php:122
+msgid "Enable"
+msgstr "सक्षम करें"
+
+#: slider-settings.php:124
+msgid "Disable"
+msgstr "अक्षम"
+
+#: slider-settings.php:125
+msgid "Set touch slide to slides using mouse drag event"
+msgstr "माउस ड्रैग इवेंट का उपयोग करके स्लाइड पर टच स्लाइड सेट करें"
+
+#: slider-settings.php:129
+msgid "6. Title & Description Settings"
+msgstr "6 शीर्षक और विवरण सेटिंग्स"
+
+#: slider-settings.php:130
+msgid "A. Show Slide Title Text"
+msgstr "एक स्लाइड स्लाइड शीर्षक दिखाएँ"
+
+#: slider-settings.php:137
+msgid "Set yes or no to display or hide slide title text"
+msgstr "स्लाइड शीर्षक टेक्स्ट को प्रदर्शित या छुपाने के लिए हाँ या नहीं सेट करें"
+
+#: slider-settings.php:140
+msgid "B. Show Slide Description Text"
+msgstr "बी स्लाइड विवरण पाठ दिखाएँ"
+
+#: slider-settings.php:147
+msgid "Set yes or no to display or hide slide title description"
+msgstr "स्लाइड शीर्षक विवरण को प्रदर्शित या छुपाने के लिए हाँ या नहीं सेट करें"
+
+#: slider-settings.php:151
+msgid "7. Slide Link Settings"
+msgstr "7 स्लाइड लिंक सेटिंग्स"
+
+#: slider-settings.php:152
+msgid "Show Slide Link"
+msgstr "स्लाइड लिंक दिखाएं"
+
+#: slider-settings.php:159
+msgid "Set yes or no to display or hide slide link"
+msgstr "स्लाइड लिंक को प्रदर्शित या छुपाने के लिए हाँ या नहीं सेट करें"
+
+#: slider-settings.php:164
+msgid "A. Set Link On"
+msgstr "एक सेट लिंक पर"
+
+#: slider-settings.php:168
+msgid "On Slide"
+msgstr "स्लाइड पर"
+
+#: slider-settings.php:170
+msgid "On Custom Text"
+msgstr "कस्टम पाठ पर"
+
+#: slider-settings.php:171
+msgid "Set link url on slide or on custom text link"
+msgstr "स्लाइड पर या कस्टम टेक्स्ट लिंक पर लिंक यूआरएल सेट करें"
+
+#: slider-settings.php:175
+msgid "B. Custom Slide Link Text"
+msgstr "बी कस्टम स्लाइड लिंक पाठ"
+
+#: slider-settings.php:178
+msgid "Set custom text for slide link text"
+msgstr "स्लाइड लिंक टेक्स्ट के लिए कस्टम टेक्स्ट सेट करें"
+
+#: slider-settings.php:182
+msgid "8. Slider Text Alignment Settings"
+msgstr "8 स्लाइडर टेक्स्ट संरेखण सेटिंग्स"
+
+#: slider-settings.php:183
+msgid "Slider All Text Alignment - Title, Description, Link"
+msgstr "स्लाइडर सभी पाठ संरेखण - शीर्षक, विवरण, लिंक"
+
+#: slider-settings.php:187
+msgid "Left"
+msgstr "बाएं"
+
+#: slider-settings.php:189
+msgid "Center"
+msgstr "केंद्र"
+
+#: slider-settings.php:191
+msgid "Right"
+msgstr "सही"
+
+#: slider-settings.php:192
+msgid "Set text alignment below slides like left, right or center"
+msgstr "बाएं, दाएं या केंद्र जैसे स्लाइड्स के नीचे टेक्स्ट संरेखण सेट करें"
+
+#: slider-settings.php:197
+msgid "9. Custom CSS"
+msgstr "9 कस्टम सीएसएस"
+
+#: slider-settings.php:198
+msgid "Type Custum CSS"
+msgstr "कस्टम सीएसएस टाइप करें"
+
+#: slider-settings.php:203
+msgid "Apply own css on image gallery and dont use style tag"
+msgstr "छवि गैलरी पर अपने सीएसएस लागू करें और स्टाइल टैग का उपयोग न करें"
+
+#: slider-settings.php:206
+msgid "A. Slider Bullets"
+msgstr "एक स्लाइडर बुलेट्स"
+
+#: slider-settings.php:210
+msgid "B. Slider Auto Height"
+msgstr "बी स्लाइडर ऑटो ऊंचाई"

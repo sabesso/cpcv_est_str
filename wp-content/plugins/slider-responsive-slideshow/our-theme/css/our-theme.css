@@ -1,0 +1,71 @@
+.serviceBox{
+    background: #fff;
+    text-align: center;
+    padding: 35px 15px;
+    transition: all 0.5s ease 0s;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.serviceBox .title{
+    font-size: 24px;
+    color: #343434;
+    margin: 0 0 20px 0;
+	font-family:lato;
+	margin-bottom:50px;
+}
+.serviceBox:hover .title{
+    
+}
+.serviceBox .service-icon{
+    width: 70px;
+    height: 70px;
+    border-radius: 82%;
+    border: 1px solid #0072A2;
+    margin: 0 auto 21px;
+    transition: all 0.5s ease 0s;
+}
+.serviceBox .service-icon{
+    transform: scale(1.20);
+    
+}
+.serviceBox .service-icon i{
+   font-size: 37px;
+    color: #0072A2;
+    line-height: 70px;
+}
+.serviceBox .description{
+    font-size: 14px;
+    color: #64676b;
+    line-height: 25px;
+    margin-bottom: 20px;
+    transition: all 0.5s ease 0s;
+}
+.serviceBox:hover .description{
+    
+}
+.serviceBox .read{
+    display: inline-block;
+    font-size: 13px;
+    color: #64676b;
+    text-transform: capitalize;
+    padding: 5px 10px;
+    border-top: 1px solid #64676b;
+    transition: all 0.5s ease 0s;
+}
+.serviceBox:hover .read{
+    text-decoration:none;
+}
+.theme_spacing_md button {
+	margin-left: 50px !important;
+    padding-left: 70px !important;
+    padding-right: 70px !important;
+}
+.aneeq_theme_desc {
+	font-family:lato;
+}
+.aneeq_theme_desc h1 {
+	font-size:30px;
+}
+@media only screen and (max-width: 990px){
+    .serviceBox{ margin-bottom: 20px; }
+}
